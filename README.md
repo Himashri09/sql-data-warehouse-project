@@ -27,7 +27,6 @@ Power BI Dashboards
 - **Dimension Tables**
   - Customers
   - Products
-  - Date
 
 - Designed using **star schema best practices**
 - Surrogate keys used for efficient joins
